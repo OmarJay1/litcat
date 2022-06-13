@@ -1,0 +1,7 @@
+Some links relating to NLP & text analysis, which are used or are useful to this project.
+
+https://github.com/jbrooksuk/node-summary
+
+https://gist.github.com/shlomibabluki/5473521
+
+https://faiss.ai/

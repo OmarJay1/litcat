@@ -1,0 +1,8 @@
+Goals and items to do.
+
+1. Use word vectors instead instead of actual words for choosing similar sentences.
+
+2. Look into Faiss for better similarity comparisons.
+
+3. Code for fetching and preparing datasets
+
