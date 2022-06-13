@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.11",
+    "html-to-text": "^8.2.0",
+    "lodash": "^4.17.21",
+    "request": "^2.88.2",
+    "sbd": "^1.0.19"
+  }
+}
